@@ -37,7 +37,7 @@
             "drush/contrib/{$name}": ["type:drupal-drush"]
         }
     },
-    "repositories": {
+    "repositories": [
         {
             "type": "composer",
             "url": "https://packages.drupal.org/8"
@@ -46,7 +46,7 @@
             "type": "vcs",
             "url": "https://github.com/pfrenssen/real_estate.git"
         }
-    },
+    ],
     "minimum-stability": "dev",
     "prefer-stable": true
 }
