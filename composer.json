@@ -12,6 +12,7 @@
     "require": {
         "cweagans/composer-patches": "^1.6.5",
         "drupal/core-composer-scaffold": "*",
+        "oomphinc/composer-installers-extender": "^2.0",
         "pfrenssen/real_estate": "dev-master"
     },
     "require-dev": {
