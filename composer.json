@@ -1,5 +1,5 @@
 {
-    "name": "pfrenssen/real-estate-project",
+    "name": "code-lab-eu/real-estate-project",
     "type": "project",
     "description": "Project template for sites built with the Real Estate Drupal distribution.",
     "license": "GPL-2.0-or-later",
@@ -13,7 +13,7 @@
         "cweagans/composer-patches": "^1.6.5",
         "drupal/core-composer-scaffold": "*",
         "oomphinc/composer-installers-extender": "^2.0",
-        "pfrenssen/real_estate": "dev-master"
+        "code-lab-eu/real_estate": "dev-master"
     },
     "require-dev": {
         "zaporylie/composer-drupal-optimizations": "~1"
@@ -45,7 +45,7 @@
         },
         {
             "type": "vcs",
-            "url": "https://github.com/pfrenssen/real_estate.git"
+            "url": "https://github.com/code-lab-eu/real_estate.git"
         }
     ],
     "minimum-stability": "dev",
