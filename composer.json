@@ -16,7 +16,6 @@
         "code-lab-eu/real_estate": "dev-master"
     },
     "require-dev": {
-        "zaporylie/composer-drupal-optimizations": "~1"
     },
     "extra": {
         "composer-exit-on-patch-failure": true,

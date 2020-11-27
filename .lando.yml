@@ -1,0 +1,6 @@
+name: real-estate-project
+recipe: drupal9
+config:
+  drush: false
+  php: '7.3'
+  webroot: web
