@@ -25,7 +25,7 @@ $ cd my-real-estate-project
 $ lando start
 ```
 
-Then navigate to https://real-estate-platform.lndo.site/ and follow the
+Then navigate to https://real-estate-project.lndo.site/ and follow the
 installation instructions. Use the following credentials for the database:
 
 - Database type: MySQL
